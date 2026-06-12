@@ -120,6 +120,8 @@ def test_tower_13_matches_live_guide_of_the_week(data):
 
 def test_font_and_icons_present(data):
     assert (ROOT / "assets" / "fonts" / "Monocraft.ttf").exists()
+    assert (ROOT / "assets" / "icons" / "merchant.png").exists()
+    assert (ROOT / "assets" / "icons" / "enchantment-point.png").exists()
     missing = []
     for t in data["towers"]:
         for f in t["floors"]:
@@ -157,7 +159,7 @@ def built_pdf(tmp_path_factory, data):
 
 def test_pdf_page_count(built_pdf, data):
     reader = pypdf.PdfReader(str(built_pdf))
-    expected = 2 + sum(  # cover + index
+    expected = 3 + sum(  # cover + index + schedule
         -(-len(t["floors"]) // build_pdf.ROWS_PER_PAGE) + 1  # tables + notes
         for t in data["towers"])
     assert len(reader.pages) == expected
@@ -168,6 +170,7 @@ def test_pdf_has_outline_and_links(built_pdf):
     titles = [o.title for o in reader.outline]
     assert "Guide of the Week" in titles
     assert "Tower Index" in titles
+    assert "Schedule" in titles
     assert "Tower 13 (this week)" in titles
     assert sum(1 for t in titles if t.startswith("Tower ")) == CYCLE_WEEKS + 1
     n_links = sum(len(p.get("/Annots") or []) for p in reader.pages)
@@ -180,6 +183,12 @@ def test_pdf_page_size_matches_remarkable(built_pdf):
     assert abs(float(box.width) / float(box.height) - 1620 / 2160) < 0.001
 
 
-def test_pdf_embeds_monocraft(built_pdf):
+def test_pdf_uses_only_monocraft(built_pdf):
     raw = built_pdf.read_bytes()
     assert b"Monocraft" in raw
+    # reportlab always emits a default Helvetica font object (/F1), but no
+    # content stream may actually select it
+    reader = pypdf.PdfReader(str(built_pdf))
+    for page in reader.pages:
+        content = page.get_contents().get_data()
+        assert b"/F1 " not in content, "page selects the Helvetica default"

@@ -16,12 +16,16 @@ your Remarkable.
   and a linked chip for every tower in the cycle.
 - **Tower index.** All 29 towers with floor counts, final bosses, the date
   each tower is next live, and links; the current week is highlighted.
+- **Schedule page.** The next 29 weeks in date order, each linked to its
+  tower. A PDF can't recompute anything when you open it (there is no
+  script runtime on the Remarkable), so if your copy is a few weeks old,
+  this page still gets you to the right guide in one tap.
 - **One guide per tower.** A floor-by-floor table showing:
   - the **item** to take on each floor (with its wiki icon),
   - the **enchantment(s)** to pick (tiers as roman numerals),
-  - the **bosses** you'll face on boss floors, or the item to **upgrade**
-    on merchant floors (tinted red and blue respectively),
-  - a slim **note** column for quick in-game marks.
+  - the **bosses** you'll face on boss floors (one icon per boss), or the
+    item to **upgrade** on merchant floors (tinted red and blue),
+  - a blank **writing line under every floor** for quick in-game marks.
 - **A notes page per tower** — your typed notes followed by ruled lines for
   handwriting.
 - **Navigation links** on every page footer (index / previous / next tower)

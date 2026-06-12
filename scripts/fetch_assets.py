@@ -58,23 +58,44 @@ def download(url, dest):
         dest.write_bytes(resp.read())
 
 
+# icons that don't come from an item/boss page image
+SPECIAL = {
+    "enchantment-point.png": ("page", "Dungeons:Enchantment Point"),
+    "merchant.png": ("file",
+                     "File:DungeonsMiscellaneousSprite Camp Merchant.png"),
+}
+
+
+def file_image_url(file_title, size=160):
+    data = api_get({
+        "action": "query", "format": "json", "prop": "imageinfo",
+        "iiprop": "url", "iiurlwidth": size, "titles": file_title})
+    for page in data["query"]["pages"].values():
+        info = page.get("imageinfo")
+        if info:
+            return info[0].get("thumburl") or info[0]["url"]
+    return None
+
+
 def fetch_icons():
     ICONS.mkdir(parents=True, exist_ok=True)
-    wanted = sorted(
+    wanted = [("Dungeons:" + n, ICONS / f"{slug(n)}.png") for n in sorted(
         (set(names.ITEMS.values()) | set(names.BOSSES.values()))
-        - {"Enchantment Point"})
+        - {"Enchantment Point"})]
+    wanted += [(src, ICONS / fname) for fname, src in
+               [(f, s[1]) for f, s in SPECIAL.items()]]
     failures = []
-    for name in wanted:
-        dest = ICONS / f"{slug(name)}.png"
+    for title, dest in wanted:
         if dest.exists():
             continue
-        url = page_image_url("Dungeons:" + name)
+        url = (file_image_url(title) if title.startswith("File:")
+               else page_image_url(title))
         if not url:
-            failures.append(name)
-            print(f"  MISSING image for {name}")
+            failures.append(title)
+            print(f"  MISSING image for {title}")
             continue
         download(url, dest)
-        print(f"  {name} -> {dest.name}")
+        print(f"  {title} -> {dest.name}")
         time.sleep(0.3)  # be polite to the wiki
     return failures
 

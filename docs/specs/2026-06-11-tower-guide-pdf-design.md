@@ -48,9 +48,13 @@ notes/towers/tower-NN.md persistent per-tower notes, re-rendered every build
     auto-selected at build time, plus links to the index and the tower's
     canonical section.
   - Index page: 29 linked tower entries; the current week highlighted.
+  - Schedule page: the next 29 weeks in date order, linked — the static-PDF
+    answer to "the cover can't recompute itself when opened."
   - One section per tower: floor table with columns *Floor · Item ·
-    Enchantments · Boss / Upgrade*, icons inline, then a Notes page
-    (rendered persistent notes + ruled blank space for handwriting).
+    Enchantments · Boss / Merchant* (one icon per boss; a ruled writing
+    line under each floor row), then a Notes page (rendered persistent
+    notes + ruled blank space for handwriting). Monocraft is used for all
+    text on a fixed type scale.
   - Every page footer: ⌂ Index / ◀ previous tower / next tower ▶ links.
 - **Fonts:** Monocraft (SIL OFL — safe to redistribute) for the Minecraft
   look; system Helvetica fallback for dense body text.
