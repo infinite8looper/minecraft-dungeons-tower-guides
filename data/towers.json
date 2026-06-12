@@ -1,0 +1,7968 @@
+{
+ "source": "https://docs.google.com/spreadsheets/d/1eafYINb3DPrLTDutkAZzCwBUgmLK4EHnm6MxMcHz7PE",
+ "credit": "Guide data by LordForce (community tower spreadsheet)",
+ "fetched": "2026-06-11",
+ "anchor_monday": "2023-05-29",
+ "cycle_weeks": 29,
+ "towers": [
+  {
+   "number": 1,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Tumblebee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Backstabber",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Powershaker"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Tumblebee",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Beehive Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      },
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Gong of Weakening"
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Boneclub",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Satchel of Elements"
+    },
+    {
+     "floor": 10,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Flail",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Drowned Necromancer",
+       "count": 1
+      },
+      {
+       "name": "Ghast",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Cog Crossbow",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Ambush",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "replaces": "Satchel of Elements",
+     "enchants": [
+      {
+       "name": "Ambush",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "bosses": [
+      {
+       "name": "Ancient Guardian",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Ambush",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Gong of Weakening"
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Pickaxe",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Radiance",
+       "tier": 2
+      },
+      {
+       "name": "Multishot",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Bonus Shot",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Multishot",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Harpoon Quiver",
+     "replaces": "Blast Fungus",
+     "enchants": [
+      {
+       "name": "Bonus Shot",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Drowned Necromancer",
+       "count": 1
+      },
+      {
+       "name": "Wildfire",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Powershaker"
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Blast Fungus"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Void Touched Blades",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 1
+      },
+      {
+       "name": "Busy Bee",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "merchant",
+     "upgrade": "Powershaker"
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Updraft Tome",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Champion's Armor",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 3
+      },
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      },
+      {
+       "name": "Thorns",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Soul Scythe",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 3
+      },
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      },
+      {
+       "name": "Enderman",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Thorns",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "replaces": "Updraft Tome"
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Thorns",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Updraft Tome",
+     "replaces": "Blast Fungus"
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Scale Mail",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      },
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Ghast",
+       "count": 1
+      },
+      {
+       "name": "Drowned Necromancer",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Cog Crossbow"
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Multishot",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Scale Mail",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      },
+      {
+       "name": "Surprise Gift",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Multishot",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Tempest Golem",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Soul Scythe",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      },
+      {
+       "name": "Guarding Strike",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Blast Fungus"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Lightning Rod"
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Mace",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      },
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Reinforced Mail",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 10,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Golem Kit",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Tempest Golem",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "replaces": "Lightning Rod"
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Mace",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Soul Crossbow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Pickaxe",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Swirling",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Golem Kit",
+     "better": true
+    },
+    {
+     "floor": 19,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "better": true,
+     "enchants": [
+      {
+       "name": "Swirling",
+       "tier": 2
+      },
+      {
+       "name": "Weakening",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Swirling",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Soul Lantern",
+     "replaces": "Golem Kit",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Wildfire",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 26,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Enigma Resonator",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 29,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "better": true,
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Wretched Wraith",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Soul Knife",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 2
+      },
+      {
+       "name": "Anima Conduit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Blast Fungus"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Snow Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 1
+      },
+      {
+       "name": "Cool Down",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Cog Crossbow"
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Harvester",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Golem Kit",
+     "bosses": [
+      {
+       "name": "Corrupted Cauldron",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Reinforced Mail",
+     "enchants": [
+      {
+       "name": "Chilling",
+       "tier": 3
+      },
+      {
+       "name": "Potion Barrier",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Corrupted Beacon",
+     "replaces": "Harvester"
+    },
+    {
+     "floor": 18,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Katana",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Leeching",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Tempest Golem",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Golem Kit",
+     "better": true,
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Lightning Rod",
+     "replaces": "Corrupted Beacon",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "replaces": "Golem Kit"
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Whispering Spear",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 29,
+     "kind": "merchant",
+     "upgrade": "Lightning Rod"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Redstone Monstrosity",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Exploding",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Soul Bow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Gong of Weakening"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Blast Fungus"
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Plate Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Drowned Necromancer",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "better": true,
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Fire Aspect",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Scatter Mines",
+     "replaces": "Blast Fungus",
+     "enchants": [
+      {
+       "name": "Fire Aspect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Fire Aspect",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Ancient Guardian",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Glaive",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Leeching",
+       "tier": 3
+      },
+      {
+       "name": "Sharpness",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Death Cap Mushroom",
+     "replaces": "Powershaker"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Void Touched Blades",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      },
+      {
+       "name": "Committed",
+       "tier": 3
+      },
+      {
+       "name": "Ambush",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Scatter Mines",
+     "better": true
+    },
+    {
+     "floor": 29,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Endersent",
+       "count": 1
+      },
+      {
+       "name": "Enderman",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Rampaging",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Rampaging",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Boneclub",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Lightning Rod"
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Mercenary Armor"
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "The Starless Night",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "merchant",
+     "upgrade": "Powershaker"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Soul Crossbow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      },
+      {
+       "name": "Soul Siphon",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Vexing Chant"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 2
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Wildfire",
+       "count": 1
+      },
+      {
+       "name": "Enderman",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "replaces": "Vexing Chant"
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Snow Armor",
+     "enchants": [
+      {
+       "name": "Bag of Souls",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Soul Bow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 1
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Sharpness",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Lightning Rod",
+     "better": true,
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Wretched Wraith",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Surprise Gift",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Surprise Gift",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Glaive",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Committed",
+       "tier": 3
+      },
+      {
+       "name": "Swirling",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Surprise Gift",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "replaces": "Blast Fungus"
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Drowned Necromancer",
+       "count": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Mace",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Harpoon Crossbow",
+     "enchants": [
+      {
+       "name": "Ricochet",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Ricochet",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Scatter Mines"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Accelerate",
+       "tier": 1
+      },
+      {
+       "name": "Ricochet",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "The Starless Night",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Ghast",
+       "count": 1
+      },
+      {
+       "name": "Evoker",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Scatter Crossbow",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      },
+      {
+       "name": "Multishot",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Multishot",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      },
+      {
+       "name": "Radiance",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Snow Armor"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Tumblebee",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Soul Bow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      },
+      {
+       "name": "Evoker",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Tumblebee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "enchants": [
+      {
+       "name": "Tumblebee",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Void Touched Blades",
+     "enchants": [
+      {
+       "name": "Radiance",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Wretched Wraith",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Satchel of Elements"
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Blast Fungus"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Reinforced Mail",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Soul Bow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Gong of Weakening"
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Soul Knife",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      },
+      {
+       "name": "Anima Conduit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Shulker Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 2
+      },
+      {
+       "name": "Leeching",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Evoker",
+       "count": 1
+      },
+      {
+       "name": "Redstone Golem",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Reinforced Mail",
+     "enchants": [
+      {
+       "name": "Final Shout",
+       "tier": 1
+      },
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 17,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Shulker Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      },
+      {
+       "name": "Tumblebee",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      },
+      {
+       "name": "Evoker",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 22,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Buzzy Nest",
+     "replaces": "Satchel of Elements"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Exploding",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Harpoon Quiver",
+     "replaces": "Buzzy Nest"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Radiance",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Scatter Crossbow",
+     "enchants": [
+      {
+       "name": "Multishot",
+       "tier": 3
+      },
+      {
+       "name": "Ricochet",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 29,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Evoker",
+       "count": 1
+      },
+      {
+       "name": "Endersent",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Exploding",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Mercenary Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Soul Crossbow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Bag of Souls",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Pickaxe",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Corrupted Beacon"
+    },
+    {
+     "floor": 9,
+     "kind": "merchant",
+     "upgrade": "Powershaker"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      },
+      {
+       "name": "Leeching",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Corrupted Cauldron",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Lightning Rod"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Glaive",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "replaces": "Lightning Rod",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Evoker",
+       "count": 2
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Lightning Rod",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Powershaker"
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Fire Aspect",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Pickaxe",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Committed",
+       "tier": 3
+      },
+      {
+       "name": "Poison Cloud",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Final Shout",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Gong of Weakening"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Dark Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Sword",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Cog Crossbow"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "merchant",
+     "upgrade": "Titan's Shroud"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Powershaker",
+     "bosses": [
+      {
+       "name": "Ancient Guardian",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Plate Armor",
+     "enchants": [
+      {
+       "name": "Chilling",
+       "tier": 3
+      },
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Blast Fungus"
+    },
+    {
+     "floor": 19,
+     "kind": "merchant",
+     "upgrade": "Plate Armor"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "bosses": [
+      {
+       "name": "Drowned Necromancer",
+       "count": 1
+      },
+      {
+       "name": "Endersent",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "The Beginning and The End",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 3
+      },
+      {
+       "name": "Gravity",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 25,
+     "kind": "merchant",
+     "upgrade": "Plate Armor"
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Blast Fungus"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 29,
+     "kind": "floor",
+     "item": "Scatter Crossbow",
+     "enchants": [
+      {
+       "name": "Accelerate",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Redstone Monstrosity",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Obsidian Claymore",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 1
+      },
+      {
+       "name": "Sharpness",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Cog Crossbow"
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Gong of Weakening"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Tasty Bone"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Turtle Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 2
+      },
+      {
+       "name": "Potion Barrier",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Satchel of Elixirs"
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Death Cap Mushroom",
+     "replaces": "Tasty Bone",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Endersent",
+       "count": 1
+      },
+      {
+       "name": "Enderman",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Void Touched Blades",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Scatter Crossbow",
+     "enchants": [
+      {
+       "name": "Multishot",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Multishot",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Ancient Guardian",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Harpoon Quiver",
+     "replaces": "Death Cap Mushroom",
+     "enchants": [
+      {
+       "name": "Infinity",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Infinity",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "merchant",
+     "upgrade": "Ranged Weapon"
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Nameless One",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Blast Fungus"
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Soul Knife",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Plate Armor",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Love Medallion"
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Corrupted Beacon",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "bosses": [
+      {
+       "name": "Wildfire",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "replaces": "Blast Fungus"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Reinforced Mail",
+     "enchants": [
+      {
+       "name": "Potion Barrier",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Potion Barrier",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Love Medallion",
+     "replaces": "Corrupted Beacon"
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Reinforced Mail",
+     "enchants": [
+      {
+       "name": "Potion Barrier",
+       "tier": 3
+      },
+      {
+       "name": "Final Shout",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Drowned Necromancer",
+       "count": 2
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Lightning Rod",
+     "replaces": "Love Medallion"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Powershaker",
+     "replaces": "Love Medallion"
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Reinforced Mail",
+     "enchants": [
+      {
+       "name": "Potion Barrier",
+       "tier": 3
+      },
+      {
+       "name": "Lightning Focus",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 29,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Jungle Abomination",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Corrupted Seeds",
+     "enchants": [
+      {
+       "name": "Radiance",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Dark Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Void Touched Blades",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 2
+      },
+      {
+       "name": "Busy Bee",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      },
+      {
+       "name": "Deflect",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Boneclub",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 1
+      },
+      {
+       "name": "Busy Bee",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Satchel of Elixirs"
+    },
+    {
+     "floor": 8,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Enderman",
+       "count": 1
+      },
+      {
+       "name": "Wildfire",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Golem Kit",
+     "replaces": "Corrupted Seeds",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      },
+      {
+       "name": "Committed",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Pickaxe",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Power Bow",
+     "enchants": [
+      {
+       "name": "Overcharge",
+       "tier": 3
+      },
+      {
+       "name": "Ricochet",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Ricochet",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Drowned Necromancer",
+       "count": 1
+      },
+      {
+       "name": "Endersent",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Piercing",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Exploding",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Piercing",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Death Cap Mushroom",
+     "replaces": "Golem Kit"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Exploding",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 28,
+     "kind": "merchant",
+     "upgrade": "Ranged Weapon"
+    },
+    {
+     "floor": 29,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      },
+      {
+       "name": "Evoker",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Buzzy Nest",
+     "enchants": [
+      {
+       "name": "Radiance",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Evoker",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Powershaker",
+     "bosses": [
+      {
+       "name": "Skeleton Horseman",
+       "count": 12
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Redstone Golem",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "merchant",
+     "upgrade": "Powershaker"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Redstone Monstrosity",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Hero's Armor",
+     "enchants": [
+      {
+       "name": "Beast Burst",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Corrupted Cauldron",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Beast Burst",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Wretched Wraith",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Beast Burst",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Elder Guardian",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Pride of the Piglins",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Drowned Necromancer",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "bosses": [
+      {
+       "name": "Ancient Guardian",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Nameless One",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 1
+      },
+      {
+       "name": "Fuse Shot",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Jungle Abomination",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Fuse Shot",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Ghast",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Wildfire",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Tempest Golem",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "bosses": [
+      {
+       "name": "Enderman",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Reinforced Mail",
+     "enchants": [
+      {
+       "name": "Chilling",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Endersent",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Mooshroom Monstrosity",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Buzzy Nest"
+    },
+    {
+     "floor": 9,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Mercenary Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      },
+      {
+       "name": "Potion Barrier",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Enderman",
+       "count": 1
+      },
+      {
+       "name": "Endersent",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Potion Barrier",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Powershaker",
+     "replaces": "Powershaker"
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Soul Crossbow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      },
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Artifact Synergy",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Void Touched Blades",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Corrupted Cauldron",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Updraft Tome",
+     "replaces": "Buzzy Nest",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Soul Knife",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Gravity",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "replaces": "Gong of Weakening"
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Boneclub",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Soul Bow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 29,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Jungle Abomination",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Void Touched Blades",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Katana",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 3
+      },
+      {
+       "name": "Leeching",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Gong of Weakening"
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 14,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Boneclub",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      },
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Wildfire",
+       "count": 1
+      },
+      {
+       "name": "Enderman",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Soul Crossbow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Pickaxe",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      },
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Swirling",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Death Cap Mushroom",
+     "replaces": "Blast Fungus"
+    },
+    {
+     "floor": 21,
+     "kind": "merchant",
+     "upgrade": "Powershaker"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Nameless One",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Dark Armor",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Beenest Armor",
+     "enchants": [
+      {
+       "name": "Chilling",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 28,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 29,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Wildfire",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Scale Mail",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Gong of Weakening"
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Mercenary Armor",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "bosses": [
+      {
+       "name": "Drowned Necromancer",
+       "count": 2
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Powershaker"
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Soul Bow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "bosses": [
+      {
+       "name": "Nameless One",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Lightning Rod"
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Corrupted Cauldron",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 18,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Fire Aspect",
+       "tier": 1
+      },
+      {
+       "name": "Potion Barrier",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Potion Barrier",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Potion Barrier",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Battlestaff"
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Frost Armor",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      },
+      {
+       "name": "Potion Barrier",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Ghast",
+       "count": 1
+      },
+      {
+       "name": "Drowned Necromancer",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Buzzy Nest"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 3
+      },
+      {
+       "name": "Weakening",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Mercenary Armor",
+     "enchants": [
+      {
+       "name": "Potion Barrier",
+       "tier": 3
+      },
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Cog Crossbow"
+    },
+    {
+     "floor": 16,
+     "kind": "merchant",
+     "upgrade": "Powershaker"
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 3
+      },
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Weakening",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Ancient Guardian",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Love Medallion",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Lightning Rod",
+     "replaces": "Buzzy Nest"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Turtle Armor",
+     "enchants": [
+      {
+       "name": "Chilling",
+       "tier": 3
+      },
+      {
+       "name": "Cool Down",
+       "tier": 3
+      },
+      {
+       "name": "Deflect",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "replaces": "Love Medallion"
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 29,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Jungle Abomination",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 19,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "The Starless Night",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Buzzy Nest"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Mercenary Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      },
+      {
+       "name": "Potion Barrier",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Blast Fungus"
+    },
+    {
+     "floor": 8,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Potion Barrier",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Potion Barrier",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Wildfire",
+       "count": 1
+      },
+      {
+       "name": "Enderman",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      },
+      {
+       "name": "Rampaging",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Void Touched Blades",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 2
+      },
+      {
+       "name": "Committed",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Golem Kit",
+     "replaces": "Buzzy Nest"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Tempest Knife",
+     "enchants": [
+      {
+       "name": "Radiance",
+       "tier": 3
+      },
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      },
+      {
+       "name": "Committed",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "replaces": "Blast Fungus",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Power Bow",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Tempest Golem",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Pickaxe",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Leeching",
+       "tier": 3
+      },
+      {
+       "name": "Committed",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Death Cap Mushroom",
+     "replaces": "Golem Kit"
+    },
+    {
+     "floor": 29,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      },
+      {
+       "name": "Enderman",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 20,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Turtle Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 1
+      },
+      {
+       "name": "Weakening",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Double Axe"
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Powershaker"
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 10,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Soul Crossbow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Void Touched Blades",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 1
+      },
+      {
+       "name": "Committed",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Lightning Rod"
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Mercenary Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Drowned Necromancer",
+       "count": 2
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Chilling",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Chilling",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Chilling",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "replaces": "Blast Fungus"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Exploding",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Exploding",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Redstone Monstrosity",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Exploding",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 29,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Void Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      },
+      {
+       "name": "Redstone Golem",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 21,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Spider Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Tempest Knife",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Lightning Rod",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Soul Bow"
+    },
+    {
+     "floor": 6,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "The Starless Night",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Buzzy Nest",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Gravity",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      },
+      {
+       "name": "Wildfire",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Shulker Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      },
+      {
+       "name": "Bag of Souls",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Powershaker"
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      },
+      {
+       "name": "Evoker",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Soul Robe",
+     "enchants": [
+      {
+       "name": "Lightning Focus",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Void Touched Blades"
+    },
+    {
+     "floor": 20,
+     "kind": "merchant",
+     "upgrade": "Lightning Rod"
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Wretched Wraith",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 22,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Scatter Crossbow",
+     "enchants": [
+      {
+       "name": "Multishot",
+       "tier": 1
+      },
+      {
+       "name": "Ricochet",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Multishot",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Gong of Weakening"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Multishot",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Buzzy Nest"
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Spear",
+     "enchants": [
+      {
+       "name": "Ricochet",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "merchant",
+     "upgrade": "Ranged Weapon"
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Ricochet",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Corrupted Cauldron",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Hunter's Armor",
+     "enchants": [
+      {
+       "name": "Tumblebee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Harpoon Quiver",
+     "enchants": [
+      {
+       "name": "Cowardice",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Void Touched Blades"
+    },
+    {
+     "floor": 13,
+     "kind": "merchant",
+     "upgrade": "Ranged Weapon"
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Snow Armor",
+     "enchants": [
+      {
+       "name": "Surprise Gift",
+       "tier": 3
+      },
+      {
+       "name": "Potion Barrier",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Jungle Abomination",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Obsidian Claymore"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Thundering Quiver",
+     "replaces": "Buzzy Nest"
+    },
+    {
+     "floor": 21,
+     "kind": "merchant",
+     "upgrade": "Ranged Weapon"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Wretched Wraith",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 23,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Exploding",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Great Hammer",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      },
+      {
+       "name": "Weakening",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Satchel of Elements"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Grim Armor",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Buzzy Nest",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Wildfire",
+       "count": 1
+      },
+      {
+       "name": "Enderman",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Soul Scythe",
+     "enchants": [
+      {
+       "name": "Enigma Resonator",
+       "tier": 3
+      },
+      {
+       "name": "Committed",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Reinforced Mail",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      },
+      {
+       "name": "Committed",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Death Cap Mushroom"
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Powershaker",
+     "replaces": "Satchel of Elements"
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Mace",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Radiance",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Burst Crossbow"
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Death Cap Mushroom",
+     "replaces": "Death Cap Mushroom"
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Golem Kit",
+     "replaces": "Buzzy Nest"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Obsidian Claymore",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Weakening",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "bosses": [
+      {
+       "name": "Redstone Golem",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "replaces": "Golem Kit"
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Battlestaff",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Committed",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 29,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Nameless One",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 24,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Soul Bow",
+     "enchants": [
+      {
+       "name": "Enigma Resonator",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Blast Fungus"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Lightning Rod",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Champion's Armor",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "merchant",
+     "upgrade": "Powershaker"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Tempest Knife",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 3
+      },
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Redstone Monstrosity",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "replaces": "Lightning Rod"
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Thorns",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Radiance",
+       "tier": 3
+      },
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Beenest Armor",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Chilling",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Buzzy Nest",
+     "replaces": "Blast Fungus"
+    },
+    {
+     "floor": 19,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Cog Crossbow",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Nameless One",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Dark Armor",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Snow Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      },
+      {
+       "name": "Potion Barrier",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Corrupted Beacon",
+     "replaces": "Buzzy Nest"
+    },
+    {
+     "floor": 29,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Wretched Wraith",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 25,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Thundering",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Updraft Tome"
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Gong of Weakening"
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Wither Armor",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Death Cap Mushroom",
+     "bosses": [
+      {
+       "name": "Tempest Golem",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Powershaker",
+     "replaces": "Updraft Tome",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Void Bow"
+    },
+    {
+     "floor": 16,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Pickaxe",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Leeching",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "bosses": [
+      {
+       "name": "Corrupted Cauldron",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Powershaker",
+     "replaces": "Powershaker"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 24,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Cog Crossbow",
+     "enchants": [
+      {
+       "name": "Smiting",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Wretched Wraith",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 26,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "The Starless Night",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 1
+      },
+      {
+       "name": "Busy Bee",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Buzzy Nest",
+     "enchants": [
+      {
+       "name": "Echo",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Vexing Chant"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Mercenary Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Satchel of Elements"
+    },
+    {
+     "floor": 6,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Powershaker",
+     "replaces": "Satchel of Elements",
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      },
+      {
+       "name": "Redstone Golem",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Void Touched Blades",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      },
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Lightning Rod",
+     "replaces": "Vexing Chant",
+     "enchants": [
+      {
+       "name": "Bag of Souls",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 3
+      },
+      {
+       "name": "Committed",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Committed",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Refreshment",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "replaces": "Buzzy Nest"
+    },
+    {
+     "floor": 17,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Refreshment",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Wildfire",
+       "count": 1
+      },
+      {
+       "name": "Enderman",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Weakening",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Scale Mail",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      },
+      {
+       "name": "Deflect",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Buzzy Nest",
+     "replaces": "Lightning Rod"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Cog Crossbow"
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Radiance",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Void Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 29,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Redstone Monstrosity",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 27,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Plate Armor",
+     "enchants": [
+      {
+       "name": "Potion Barrier",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Vexing Chant",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Satchel of Elements"
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Mechanized Sawblade",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Power Bow",
+     "enchants": [
+      {
+       "name": "Supercharge",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Golem Kit",
+     "enchants": [
+      {
+       "name": "Supercharge",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Soul Knife",
+     "enchants": [
+      {
+       "name": "Enigma Resonator",
+       "tier": 1
+      },
+      {
+       "name": "Anima Conduit",
+       "tier": 1
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Wretched Wraith",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Corrupted Beacon",
+     "replaces": "Vexing Chant",
+     "enchants": [
+      {
+       "name": "Enigma Resonator",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Updraft Tome",
+     "replaces": "Satchel of Elements",
+     "enchants": [
+      {
+       "name": "Enigma Resonator",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Eternal Knife",
+     "enchants": [
+      {
+       "name": "Shockwave",
+       "tier": 2
+      },
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Soul Crossbow",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Anima Conduit",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Soul Knife",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Guarding Strike",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Love Medallion",
+     "replaces": "Golem Kit",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      },
+      {
+       "name": "Redstone Golem",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Soul Siphon",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Updraft Tome",
+     "enchants": [
+      {
+       "name": "Soul Siphon",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Corrupted Beacon"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Soul Siphon",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Soul Knife",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Swirling",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 29,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Mooshroom Monstrosity",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 28,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Lightning Rod",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "The Starless Night",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Buzzy Nest",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Mercenary Armor",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 9,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 10,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Corrupted Cauldron",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Powershaker",
+     "replaces": "Buzzy Nest",
+     "enchants": [
+      {
+       "name": "Bag of Souls",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      },
+      {
+       "name": "Rampaging",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Void Touched Blades",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 2
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Lightning Rod",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Leeching",
+       "tier": 3
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Nameless One",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Double Axe",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Exploding",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Exploding",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "enchants": [
+      {
+       "name": "Exploding",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Sharpness",
+       "tier": 3
+      },
+      {
+       "name": "Thundering",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "merchant",
+     "upgrade": "Melee Weapon"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Jungle Abomination",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "number": 29,
+   "floors": [
+    {
+     "floor": 1,
+     "kind": "floor",
+     "item": "Powershaker",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 2,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 3,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 4,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Bag of Souls",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 5,
+     "kind": "floor",
+     "item": "The Starless Night",
+     "enchants": [
+      {
+       "name": "Busy Bee",
+       "tier": 3
+      },
+      {
+       "name": "Rampaging",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 6,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Rampaging",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 7,
+     "kind": "floor",
+     "item": "Buzzy Nest"
+    },
+    {
+     "floor": 8,
+     "kind": "floor",
+     "item": "Harvester"
+    },
+    {
+     "floor": 9,
+     "kind": "floor",
+     "item": "Beenest Armor",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 2
+      },
+      {
+       "name": "Snowball",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 10,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 11,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 2
+      }
+     ],
+     "bosses": [
+      {
+       "name": "Illusioner",
+       "count": 1
+      },
+      {
+       "name": "Evoker",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 12,
+     "kind": "floor",
+     "item": "Blast Fungus",
+     "replaces": "Harvester",
+     "enchants": [
+      {
+       "name": "Snowball",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 13,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 14,
+     "kind": "floor",
+     "item": "Soul Scythe",
+     "enchants": [
+      {
+       "name": "Cool Down",
+       "tier": 3
+      },
+      {
+       "name": "Exploding",
+       "tier": 2
+      },
+      {
+       "name": "Guarding Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 15,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Guarding Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 16,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Weakening",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 17,
+     "kind": "floor",
+     "item": "Lightning Rod",
+     "replaces": "Buzzy Nest"
+    },
+    {
+     "floor": 18,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Exploding",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 19,
+     "kind": "merchant",
+     "upgrade": "Armor"
+    },
+    {
+     "floor": 20,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "bosses": [
+      {
+       "name": "Wildfire",
+       "count": 1
+      },
+      {
+       "name": "Enderman",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "floor": 21,
+     "kind": "floor",
+     "item": "Cog Crossbow"
+    },
+    {
+     "floor": 22,
+     "kind": "floor",
+     "item": "Soul Knife",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      },
+      {
+       "name": "Leeching",
+       "tier": 3
+      },
+      {
+       "name": "Gravity",
+       "tier": 1
+      }
+     ]
+    },
+    {
+     "floor": 23,
+     "kind": "floor",
+     "item": "Enchantment Point",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 2
+      }
+     ]
+    },
+    {
+     "floor": 24,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 25,
+     "kind": "floor",
+     "item": "Gong of Weakening",
+     "replaces": "Blast Fungus",
+     "enchants": [
+      {
+       "name": "Void Strike",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 26,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 27,
+     "kind": "floor",
+     "item": "Enchantment Point"
+    },
+    {
+     "floor": 28,
+     "kind": "floor",
+     "item": "Broken Sawblade",
+     "enchants": [
+      {
+       "name": "Sharpness",
+       "tier": 3
+      },
+      {
+       "name": "Critical Hit",
+       "tier": 3
+      },
+      {
+       "name": "Thundering",
+       "tier": 3
+      }
+     ]
+    },
+    {
+     "floor": 29,
+     "kind": "merchant",
+     "upgrade": "Lightning Rod"
+    },
+    {
+     "floor": 30,
+     "kind": "floor",
+     "bosses": [
+      {
+       "name": "Redstone Monstrosity",
+       "count": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
