@@ -65,7 +65,7 @@ S_H3 = 10
 S_BODY = 8
 S_SMALL = 6.5
 
-ROWS_PER_PAGE = 15
+ROWS_PER_PAGE = 10  # half of each row is blank writing space
 ROMAN = {1: "I", 2: "II", 3: "III", 4: "IV", 5: "V"}
 
 NOTES_TEMPLATE = """\
@@ -95,11 +95,11 @@ def load_notes(n):
 
 
 def fmt_date(d):
-    return d.strftime("%b %-d, %Y").upper()
+    return d.strftime("%b %-d, %Y")
 
 
 def fmt_short(d):
-    return d.strftime("%b %-d").upper()
+    return d.strftime("%b %-d")
 
 
 def next_live(n, today):
@@ -214,12 +214,12 @@ class Builder:
         if tower:
             prev_t = tower - 1 if tower > 1 else CYCLE_WEEKS
             next_t = tower + 1 if tower < CYCLE_WEEKS else 1
-            labels = [(f"<< TOWER {prev_t}", f"tower-{prev_t}"),
-                      ("INDEX", "index"),
-                      (f"TOWER {next_t} >>", f"tower-{next_t}")]
+            labels = [(f"<< Tower {prev_t}", f"tower-{prev_t}"),
+                      ("Index", "index"),
+                      (f"Tower {next_t} >>", f"tower-{next_t}")]
             positions = [0.22, 0.5, 0.78]
         else:
-            labels = [("INDEX", "index"), ("SCHEDULE", "schedule")]
+            labels = [("Index", "index"), ("Schedule", "schedule")]
             positions = [0.38, 0.62]
         for (label, dest), frac in zip(labels, positions):
             w = c.stringWidth(label, MC, S_BODY) + 8
@@ -242,32 +242,32 @@ class Builder:
         c.addOutlineEntry("Guide of the Week", "cover", 0)
         c.setFillColor(GRASS_DARK)
         c.rect(0, PAGE_H - 150, PAGE_W, 150, stroke=0, fill=1)
-        self.text(PAGE_W / 2, PAGE_H - 78, "MINECRAFT DUNGEONS", S_TITLE,
+        self.text(PAGE_W / 2, PAGE_H - 78, "Minecraft Dungeons", S_TITLE,
                   WHITE, align="center")
-        self.text(PAGE_W / 2, PAGE_H - 112, "TOWER GUIDES", 20, GRASS_LIGHT,
+        self.text(PAGE_W / 2, PAGE_H - 112, "Tower Guides", 20, GRASS_LIGHT,
                   align="center")
 
         monday, _ = next_live(self.current, self.today)
         sunday = monday + datetime.timedelta(days=6)
         y = PAGE_H - 210
-        self.text(PAGE_W / 2, y, "GUIDE OF THE WEEK", S_H2, GOLD,
+        self.text(PAGE_W / 2, y, "Guide of the Week", S_H2, GOLD,
                   align="center")
-        self.text(PAGE_W / 2, y - 54, f"TOWER {self.current}", 44, INK,
+        self.text(PAGE_W / 2, y - 54, f"Tower {self.current}", 44, INK,
                   align="center")
         self.text(PAGE_W / 2, y - 76,
                   f"{fmt_date(monday)} - {fmt_date(sunday)}", S_H3, FAINT,
                   align="center")
         self.link_box((PAGE_W / 2 - 110, y - 126, 220, 34),
                       f"tower-{self.current}", GRASS,
-                      f"OPEN TOWER {self.current} >>", size=S_H2)
+                      f"Open Tower {self.current} >>", size=S_H2)
         self.link_box((PAGE_W / 2 - 110, y - 162, 106, 36 - 8),
-                      "index", STONE, "INDEX", size=S_H3)
+                      "index", STONE, "Index", size=S_H3)
         self.link_box((PAGE_W / 2 + 4, y - 162, 106, 36 - 8),
-                      "schedule", STONE, "SCHEDULE", size=S_H3)
+                      "schedule", STONE, "Schedule", size=S_H3)
 
         # mini index: chips for all towers
         y0 = y - 218
-        self.text(PAGE_W / 2, y0 + 18, "ALL TOWERS", S_H3, FAINT,
+        self.text(PAGE_W / 2, y0 + 18, "All Towers", S_H3, FAINT,
                   align="center")
         cols, cw, ch, gap = 6, 64, 26, 9
         grid_w = cols * cw + (cols - 1) * gap
@@ -285,7 +285,7 @@ class Builder:
                   "The cover updates when the PDF is rebuilt (weekly); the",
                   S_SMALL, FAINT, align="center")
         self.text(PAGE_W / 2, 67,
-                  "SCHEDULE page maps dates to towers if this copy is old.",
+                  "Schedule page maps dates to towers if this copy is old.",
                   S_SMALL, FAINT, align="center")
         self.text(PAGE_W / 2, 52,
                   f"Built {fmt_date(self.today)} - guide data by LordForce - "
@@ -298,9 +298,9 @@ class Builder:
         c = self.c
         c.bookmarkPage("index")
         c.addOutlineEntry("Tower Index", "index", 0)
-        self.text(MARGIN, PAGE_H - 58, "TOWER INDEX", 22, GRASS_DARK)
+        self.text(MARGIN, PAGE_H - 58, "Tower Index", 22, GRASS_DARK)
         self.text(PAGE_W - MARGIN, PAGE_H - 58,
-                  f"THIS WEEK: TOWER {self.current}", S_H3, GOLD,
+                  f"This week: Tower {self.current}", S_H3, GOLD,
                   align="right")
         col_w = (PAGE_W - 2 * MARGIN - 16) / 2
         row_h = 38
@@ -314,10 +314,10 @@ class Builder:
             c.setFillColor(GRASS_PALE if cur else PARCHMENT)
             c.roundRect(x, y - row_h + 6, col_w, row_h - 5, 3, stroke=0,
                         fill=1)
-            self.text(x + 8, y - 14, f"TOWER {n}", 11,
+            self.text(x + 8, y - 14, f"Tower {n}", 11,
                       GRASS_DARK if cur else INK)
             if cur:
-                self.text(x + col_w - 8, y - 14, "THIS WEEK", S_SMALL, GOLD,
+                self.text(x + col_w - 8, y - 14, "This week", S_SMALL, GOLD,
                           align="right")
             final = next((f for f in reversed(t["floors"])
                           if f.get("bosses")), None)
@@ -341,9 +341,9 @@ class Builder:
         c = self.c
         c.bookmarkPage("schedule")
         c.addOutlineEntry("Schedule", "schedule", 0)
-        self.text(MARGIN, PAGE_H - 58, "SCHEDULE", 22, GRASS_DARK)
+        self.text(MARGIN, PAGE_H - 58, "Schedule", 22, GRASS_DARK)
         self.text(PAGE_W - MARGIN, PAGE_H - 58,
-                  "WEEKS ROLL OVER SUNDAY NIGHT", S_SMALL, FAINT,
+                  "Weeks roll over Sunday night", S_SMALL, FAINT,
                   align="right")
         top = PAGE_H - 90
         row_h = (top - 40) / CYCLE_WEEKS
@@ -366,10 +366,10 @@ class Builder:
                       f"{fmt_short(monday)} - {fmt_short(sunday)}, "
                       f"{sunday.year}", S_BODY,
                       GRASS_DARK if w == 0 else INK)
-            self.text(PAGE_W / 2 + 30, cy, f"TOWER {n}", S_BODY,
+            self.text(PAGE_W / 2 + 30, cy, f"Tower {n}", S_BODY,
                       GRASS_DARK if w == 0 else INK)
             if w == 0:
-                self.text(PAGE_W - MARGIN - 10, cy, "THIS WEEK", S_SMALL,
+                self.text(PAGE_W - MARGIN - 10, cy, "This week", S_SMALL,
                           GOLD, align="right")
             c.linkAbsolute("", f"tower-{n}",
                            (MARGIN, y, PAGE_W - MARGIN, y + row_h))
@@ -396,11 +396,11 @@ class Builder:
         c = self.c
         c.setFillColor(GRASS_DARK if live_now else STONE)
         c.rect(0, PAGE_H - 64, PAGE_W, 64, stroke=0, fill=1)
-        self.text(MARGIN, PAGE_H - 44, f"TOWER {n}", S_H1, WHITE)
-        sub = (f"THIS WEEK  ({fmt_date(monday)} - "
+        self.text(MARGIN, PAGE_H - 44, f"Tower {n}", S_H1, WHITE)
+        sub = (f"This week  ({fmt_date(monday)} - "
                f"{fmt_date(monday + datetime.timedelta(days=6))})"
                if live_now else
-               f"NEXT LIVE: WEEK OF {fmt_date(monday)}")
+               f"Next live: week of {fmt_date(monday)}")
         self.text(MARGIN, PAGE_H - 58, sub, S_BODY,
                   GRASS_LIGHT if live_now else STONE_LIGHT)
         self.text(PAGE_W - MARGIN, PAGE_H - 44, f"{ci + 1}/{total}", S_H3,
@@ -410,7 +410,7 @@ class Builder:
         c = self.c
         x0 = MARGIN
         widths = [26, 175, 130, 120]  # floor, item, enchants, boss/merchant
-        headers = ["FL", "ITEM TO TAKE", "ENCHANTMENTS", "BOSS / MERCHANT"]
+        headers = ["Fl", "Item to take", "Enchantments", "Boss / Merchant"]
         table_w = sum(widths)
         top = PAGE_H - 80
         row_h = (top - 40) / ROWS_PER_PAGE  # ~37pt: content + writing space
@@ -434,10 +434,11 @@ class Builder:
             c.setStrokeColor(RULE)
             c.setLineWidth(0.5)
             c.line(x0, y, x0 + table_w, y)
-            # writing line for in-game pencil notes
+            # bottom half of each row is blank writing space, as tall as
+            # the content half, with a baseline to write on
             c.setStrokeColor(WRITE_RULE)
-            c.line(x0 + widths[0] + 4, y + 7, x0 + table_w - 4, y + 7)
-            ccy = y + row_h / 2 + 4  # center of the content zone
+            c.line(x0 + widths[0] + 4, y + 12, x0 + table_w - 4, y + 12)
+            ccy = y + row_h * 0.75 - 2  # center of the content (top) half
             # floor number
             self.text(x0 + widths[0] / 2, ccy - 4, str(f["floor"]), 11, INK,
                       align="center")
@@ -446,7 +447,7 @@ class Builder:
             iw = widths[1]
             if f["kind"] == "merchant":
                 self.icon("merchant.png", ix + 4, ccy - 9, 18)
-                self.text(ix + 27, ccy - 4, "MERCHANT", S_H3, MERCH_BLUE)
+                self.text(ix + 27, ccy - 4, "Merchant", S_H3, MERCH_BLUE)
             elif f.get("item"):
                 has_icon = (self.icon("enchantment-point.png", ix + 5,
                                       ccy - 8, 16)
@@ -480,7 +481,7 @@ class Builder:
             # boss / merchant upgrade
             bx = ex + widths[2]
             if f["kind"] == "merchant":
-                lines = ([("UPGRADE:", S_SMALL, MERCH_BLUE, 0)]
+                lines = ([("Upgrade:", S_SMALL, MERCH_BLUE, 0)]
                          + [(s, S_BODY, MERCH_BLUE, 0) for s in self.wrap(
                              f["upgrade"], S_BODY, widths[3] - 8)])
                 self.lines_block(bx + 4, ccy, lines, line_h=9)
@@ -504,7 +505,7 @@ class Builder:
     def notes_page(self, n, monday, live_now, chunks):
         self.new_page()
         self.tower_header(n, monday, live_now, chunks, chunks + 1)
-        self.text(MARGIN, PAGE_H - 96, "NOTES", 16, GRASS_DARK)
+        self.text(MARGIN, PAGE_H - 96, "Notes", 16, GRASS_DARK)
         self.text(PAGE_W - MARGIN, PAGE_H - 96,
                   f"edit notes/towers/tower-{n:02d}.md to keep notes "
                   "across cycles", S_SMALL, FAINT, align="right")
